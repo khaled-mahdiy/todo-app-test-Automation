@@ -1,0 +1,20 @@
+{
+    "tasks":[
+     {
+      "isCompleted": false,
+      "_id": "624f646686605602e8f2378b",
+      "item": "cypress",
+      "userID": "624f4f7c86605602e8f2378a",
+      "createdAt": "2022-04-07T22:23:34.172Z",
+      "__v": 0
+    },
+    {
+        "isCompleted": true,
+        "_id": "624f646686605602e8f2378b",
+        "item": "javascript",
+        "userID": "624f4f7c86605602e8f2378a",
+        "createdAt": "2022-04-07T22:23:34.172Z",
+        "__v": 0
+      }
+]
+}
